@@ -1,53 +1,101 @@
-# Hey, I'm Arkabrata Roy 👋
+<h1 align="center">Hey 👋 I'm Arkabrata Roy</h1>
+<h3 align="center">Building AI systems that people actually use</h3>
 
-**3rd year CS undergrad @ KIIT University, Bhubaneswar**  
-Building at the intersection of ML engineering and AI product.
-
----
-
-## What I work on
-
-- **LLM applications** — RAG pipelines, agentic workflows, LangChain, OpenAI
-- **Computer Vision & Deep Learning** — CNNs, RNNs, GANs, PyTorch, TensorFlow
-- **Full-stack AI products** — Next.js, Flask, FastAPI, Firebase, Vercel
-- **AI Product Management** — PRDs, user research, KPIs, MVP development
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arka2024&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [BrightPath](https://github.com/arka2024) | RAG-powered school discovery — 100+ schools, 40% faster decisions | Next.js, LangChain, GPT-4o, Firebase |
-| [Deepfake Classifier](https://github.com/arka2024/fake_detection) | CNN-RNN hybrid — 81% accuracy, sub-100ms inference | PyTorch, OpenCV, FaceForensics++ |
-| [Adversarial CAPTCHA GAN](https://github.com/arka2024/captcha_generator) | 85% OCR failure rate, 90% human solve accuracy | PyTorch, EasyOCR |
+## 🧠 About Me
+- 🎓 3rd Year CS @ KIIT University, Bhubaneswar  
+- ⚡ Building at the intersection of **ML Engineering + AI Products**  
+- 🧩 Focused on **LLMs, Real-time Systems, and Scalable AI Apps**  
+- 🚀 Turning ideas → deployed products (not just notebooks)
 
 ---
 
-## Achievements
+## ⚒️ What I Build
 
-- **Smart India Hackathon 2024** — State Finalist
-- **KPIT NOVA** — Winner (Embedded Systems)
-- **MISA Hackathon** — Champion (ML Pipeline)
-- **ICDCIT Hackathon** — Top 10 (NLP)
-- **NEST Hack** (Novartis + Amazon) — Top 3,000 / 30,000+
-
----
-
-## Tech stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+- 🧠 **LLM Systems** — RAG pipelines, agent workflows, LangChain, OpenAI APIs  
+- 👁️ **Computer Vision & Deep Learning** — CNNs, RNNs, GANs, real-time inference  
+- 🌐 **Full-Stack AI Products** — Next.js, Flask, FastAPI, Firebase, Vercel  
+- 📊 **AI Product Thinking** — PRDs, KPIs, MVPs, user-first design  
 
 ---
 
-## Connect
+## 🔥 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArkabrataRoy-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ArkabrataRoy)
-[![Email](https://img.shields.io/badge/Email-arkabrataroy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arkabrataroy@gmail.com)
+### 🟢 BrightPath  
+> AI-powered school discovery platform  
 
-*Open to ML engineer, SDE, and AI PM internship/full-time roles.*
+- ⚡ 100+ schools indexed  
+- 📉 Reduced decision time by **40%**  
+- 🧠 RAG-based recommendation system with LLM workflows  
+- ☁️ Deployed with CI/CD achieving high reliability  
+
+**Stack:** Next.js • Firebase • LangChain • OpenAI  
+
+---
+
+### 🔵 Nexus Transit  
+> Real-time AI-powered bus tracking & booking system  
+
+- 🛰️ Live tracking using real-time location streams  
+- 🧠 AI-based seat availability prediction  
+- 🔄 Hybrid vacancy + safety-aware system design  
+- 📍 Improved commuter decision-making  
+
+**Stack:** Node.js • React • Socket.IO • Leaflet • AI Models  
+
+---
+
+### 🟣 CohabitAI  
+> AI-powered roommate & PG matching platform  
+
+- 🧠 Multi-dimensional ML compatibility engine  
+- 📊 Used cosine, Euclidean & TF-IDF similarity  
+- 🎯 KNN-based filtering for optimized matching  
+- 🤖 Integrated AI chatbot for conflict resolution  
+
+**Stack:** Python • Flask • Scikit-learn • Gemini API  
+
+---
+
+### 🔴 Deepfake Classifier  
+> Real-time fake media detection system  
+
+- 🎯 CNN-RNN hybrid model  
+- ⚡ Sub-100ms inference  
+- 🧠 Built for scalable detection pipelines  
+
+**Stack:** PyTorch • OpenCV • FaceForensics++  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,nextjs,firebase,nodejs,react,git" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arka2024&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arka2024&theme=radical" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/arkabrata-roy-b006a6280  
+- 📧 Email: arkabrataroy@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+> I don’t just train models — I ship them 🚀
