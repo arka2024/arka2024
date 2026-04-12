@@ -103,11 +103,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/arka2024/arka2024/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌍 Connect With Me
 
