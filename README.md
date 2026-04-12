@@ -1,8 +1,11 @@
 <h1 align="center">Hey 👋 I'm Arkabrata Roy</h1>
-<h3 align="center">Building AI systems that people actually use</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arka2024&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Builder;LLMs+%7C+Computer+Vision+%7C+Full+Stack;Building+Real-World+AI+Products" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=arka2024&icon=0&color=6" />
 </p>
 
 ---
@@ -12,6 +15,14 @@
 - ⚡ Building at the intersection of **ML Engineering + AI Products**  
 - 🧩 Focused on **LLMs, Real-time Systems, and Scalable AI Apps**  
 - 🚀 Turning ideas → deployed products (not just notebooks)
+
+---
+
+## 🚧 Currently Working On
+
+- 🤖 Scaling **RAG-based LLM systems**  
+- ⚡ Real-time AI inference pipelines  
+- 📈 Production-ready AI products  
 
 ---
 
@@ -31,57 +42,59 @@
 
 - ⚡ 100+ schools indexed  
 - 📉 Reduced decision time by **40%**  
-- 🧠 RAG-based recommendation system with LLM workflows  
-- ☁️ Deployed with CI/CD achieving high reliability  
-
-**Stack:** Next.js • Firebase • LangChain • OpenAI  
+- 🧠 RAG-based recommendation system  
+- ☁️ Deployed with CI/CD  
 
 ---
 
 ### 🔵 Nexus Transit  
 > Real-time AI-powered bus tracking & booking system  
 
-- 🛰️ Live tracking using real-time location streams  
-- 🧠 AI-based seat availability prediction  
-- 🔄 Hybrid vacancy + safety-aware system design  
-- 📍 Improved commuter decision-making  
-
-**Stack:** Node.js • React • Socket.IO • Leaflet • AI Models  
+- 🛰️ Live tracking system  
+- 🧠 AI-based seat prediction  
+- 📍 Smart commuter insights  
 
 ---
 
 ### 🟣 CohabitAI  
-> AI-powered roommate & PG matching platform  
+> AI-powered roommate matching platform  
 
-- 🧠 Multi-dimensional ML compatibility engine  
-- 📊 Used cosine, Euclidean & TF-IDF similarity  
-- 🎯 KNN-based filtering for optimized matching  
-- 🤖 Integrated AI chatbot for conflict resolution  
-
-**Stack:** Python • Flask • Scikit-learn • Gemini API  
+- 🧠 ML compatibility engine  
+- 📊 KNN + similarity metrics  
+- 🤖 AI chatbot integration  
 
 ---
 
 ### 🔴 Deepfake Classifier  
-> Real-time fake media detection system  
+> Real-time fake media detection  
 
-- 🎯 CNN-RNN hybrid model  
+- 🎯 CNN-RNN hybrid  
 - ⚡ Sub-100ms inference  
-- 🧠 Built for scalable detection pipelines  
 
-**Stack:** PyTorch • OpenCV • FaceForensics++  
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arka2024&repo=BrightPath&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arka2024&repo=CohabitAI&theme=radical" />
+</p>
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,nextjs,firebase,nodejs,react,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,nextjs,nodejs,react,firebase,git&perline=5" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arka2024&theme=radical" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arka2024&show_icons=true&theme=radical" />
@@ -90,12 +103,25 @@
 
 ---
 
-## 🌍 Let's Connect
+## 🐍 Contribution Snake
 
-- 💼 LinkedIn: https://linkedin.com/in/arkabrata-roy-b006a6280  
-- 📧 Email: arkabrataroy@gmail.com  
+![snake gif](https://github.com/arka2024/arka2024/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## ⚡ Fun Fact
-> I don’t just train models — I ship them 🚀
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/arkabrata-roy-b006a6280">
+    <img src="https://img.shields.io/badge/LinkedIn-Arkabrata-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:arkabrataroy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🧠 AI Philosophy
+
+> "I don’t just train models — I ship AI products that solve real problems 🚀"
