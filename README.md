@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Builder;LLMs+%7C+Computer+Vision+%7C+Full+Stack;Building+Real-World+AI+Products" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=arka2024&icon=0&color=6" />
-</p>
 
 ---
 
