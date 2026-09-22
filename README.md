@@ -1,7 +1,11 @@
 <h1 align="center">Hey 👋, I'm Arkabrata Roy</h1>
 
 <p align="center">
-  <b>AI / ML Engineer · LLM Systems · Computer Vision · Full-Stack AI</b>
+  <b>Software Engineer · Backend Systems · Applied AI</b>
+</p>
+
+<p align="center">
+  Building backend services, scalable applications, and AI-powered systems.
 </p>
 
 <p align="center">
@@ -16,124 +20,177 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems+That+Ship;LLMs+%7C+RAG+%7C+Computer+Vision;ML+Engineering+%7C+Full-Stack+AI;Turning+Ideas+Into+Real+Products" />
-</p>
+---
+
+## 👨‍💻 About Me
+
+I'm a final-year Computer Science undergraduate at **KIIT University** focused on
+**Software Engineering, Backend Systems, and Applied AI**.
+
+I enjoy building systems that combine reliable backend engineering with
+practical AI capabilities.
+
+### Areas I work with
+
+- ⚙️ Backend development and API design
+- 🔗 REST APIs, gRPC and microservices
+- 📨 Event-driven systems with Apache Kafka
+- 🗄️ PostgreSQL, MongoDB and database design
+- 🤖 Generative AI, LLMs and RAG
+- 🔎 Semantic search and recommendation systems
+- 🌐 Full-stack application development
+- ☁️ Cloud deployment and CI/CD
 
 ---
 
-## 🧠 About Me
+## 🛠️ Technical Skills
 
-I'm a Computer Science student focused on building **practical AI systems and products**.
-
-My interests sit at the intersection of:
-
-* 🤖 **Generative AI & LLM applications**
-* 🔎 **RAG and intelligent retrieval systems**
-* 👁️ **Computer Vision & Deep Learning**
-* ⚡ **Real-time AI inference**
-* 🌐 **Full-stack AI applications**
-* 🚀 **Taking ML ideas from prototype → production**
-
-I enjoy working on problems where **models, software engineering, and product thinking** come together.
-
----
-
-## 🚧 Currently Building
-
-* 🤖 RAG-powered AI applications
-* ⚡ Real-time inference pipelines
-* 🧠 Agentic / LLM-based workflows
-* 🌐 Production-ready AI products
-* 📊 AI systems designed around real user problems
-
----
-
-## 🛠️ What I Work With
-
-### 🤖 AI / Machine Learning
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-**Focus:**
-LLMs · RAG · Deep Learning · Computer Vision · NLP · Model Inference
+`SQL`
 
-### 🌐 Backend & Full Stack
+### ⚙️ Backend & Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flask,fastapi,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
-**Focus:**
-REST APIs · AI Backends · Real-Time Applications · Full-Stack AI Products
+`REST APIs` `gRPC` `Microservices` `Apache Kafka`
+`Event-Driven Architecture` `API Design`
 
-### ⚙️ Developer Tools
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
----
+`PostgreSQL` `MongoDB` `Drizzle ORM`
+`Schema Design` `Database Migrations`
 
-# 🚀 Featured Work
+### 🤖 Applied AI
 
-> A selection of projects where I combine AI/ML with real-world software systems.
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
 
-### 🟢 BrightPath
+`Generative AI` `LLMs` `RAG` `LangChain`
+`Hugging Face` `Scikit-learn` `TF-IDF`
+`Semantic Search` `Prompt Engineering`
 
-**AI-powered school discovery and recommendation platform**
+### 🌐 Web & Cloud
 
-* 🔎 Intelligent school discovery
-* 🧠 AI-powered recommendation / retrieval
-* 🌐 Full-stack application
-* ☁️ Designed for deployment and scalability
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,aws,docker" />
+</p>
 
-**Stack:** `Python` `RAG` `LLM` `Next.js` `FastAPI`
-
----
-
-### 🔵 Nexus Transit
-
-**Real-time AI-powered transportation platform**
-
-* 🛰️ Real-time transit tracking
-* 🚌 Booking-oriented application flow
-* 🧠 AI-assisted commuter insights
-* ⚡ Real-time system architecture
-
-**Stack:** `AI/ML` `React` `Backend APIs` `Real-Time Systems`
+`CI/CD` `GitHub Actions` `Vercel`
 
 ---
 
-### 🟣 CohabitAI
+# 🚀 Featured Projects
 
-**AI-assisted roommate matching platform**
+## 🟢 BrightPath
 
-* 🧠 Compatibility-based matching
-* 📊 Similarity-based recommendation
-* 🤖 AI conversational interface
-* 🌐 Full-stack product architecture
+**AI-Powered School Discovery Platform**
 
-**Stack:** `Python` `Machine Learning` `KNN` `LLM` `Web`
+A RAG-based school discovery and recommendation platform combining
+structured school data with natural-language search.
 
----
+**What I worked on:**
 
-### 🔴 Deepfake Classifier
+- 🔎 Built semantic search and recommendation using RAG
+- 🏫 Covered 100+ schools
+- 🤖 Integrated OpenAI GPT-4o-mini through LangChain
+- 📊 Added automated evaluation for hallucination, relevance and response quality
+- ⚡ Reduced manual testing effort by 60%
+- ☁️ Deployed with AWS and CI/CD
 
-**Deep learning system for detecting manipulated media**
+**Stack:** `Next.js` `LangChain` `OpenAI` `RAG` `OpenSearch` `AWS` `CI/CD`
 
-* 👁️ Computer Vision pipeline
-* 🧠 CNN / sequence-based modelling
-* ⚡ Designed for real-time inference
-* 📊 Deep learning experimentation and evaluation
-
-**Stack:** `Python` `PyTorch/TensorFlow` `OpenCV` `CNN` `RNN`
+[View Project →](https://github.com/arka2024/Brightpath-main)
 
 ---
 
-## 📊 GitHub Analytics
+## 🔵 CohabitAI
+
+**AI-Assisted Roommate & PG Allocation Platform**
+
+A recommendation platform that matches users based on location,
+preferences and compatibility.
+
+**What I worked on:**
+
+- 🧠 Built a multi-factor recommendation pipeline
+- 📊 Used Cosine Similarity, Euclidean Distance and TF-IDF
+- 📍 Integrated Haversine Distance for location matching
+- 🔎 Used KNN-based retrieval
+- 🤖 Integrated Gemini-generated explanations
+- 📈 Tested across 500+ profiles
+
+**Stack:** `Python` `Flask` `Scikit-learn` `MongoDB` `Gemini API`
+
+[View Project →](https://github.com/arka2024/AI-PG-Room-Allocation-FINAL)
+
+---
+
+## 🟣 Backend & Distributed Systems
+
+### Sundew Solutions — Asmbel
+
+Worked on a U.S.-based B2B Home Warranty platform involving
+policy, claims and technician-management workflows.
+
+**Engineering exposure:**
+
+- ⚙️ Debugged data flows across **12 distributed microservices**
+- 🔗 Developed and integrated **REST and gRPC APIs**
+- 📨 Worked with asynchronous **Kafka producer-consumer flows**
+- 🗄️ Managed PostgreSQL schemas and migrations using **Drizzle ORM**
+- 🧪 Contributed to testing, debugging, code reviews and production-oriented fixes
+
+**Stack:** `Node.js` `REST` `gRPC` `Apache Kafka`
+`PostgreSQL` `Drizzle ORM` `Microservices`
+
+---
+
+## 🔴 Deepfake Classifier
+
+**Deep Learning System for Manipulated Media Detection**
+
+Computer vision and deep learning project exploring CNN/RNN-based
+approaches for detecting manipulated media.
+
+**Stack:** `Python` `CNN` `RNN` `OpenCV` `Deep Learning`
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Winner — MLSA Hackathon, AI/ML Track
+- 🥇 Winner — KPIT NOVA, Embedded Challenge
+- 🏆 State Finalist — Smart India Hackathon 2024
+- 🔟 Top 10 — ICDCIT Hackathon, NLP Track
+- 🏅 KIIT FEST — Hack The Bot
+
+---
+
+# 👥 Leadership
+
+### Technical Secretary & Core ML Member — AISOC KIIT
+- Conducted GenAI workshops for **200+ students**
+- Coordinated an AI/ML hackathon with **50+ teams**
+
+### Tech Lead — IEEE Computer Society KIIT
+- Led **3+ project teams**
+- Mentored members on ML system design and deployment
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=arka2024&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
@@ -146,49 +203,15 @@ REST APIs · AI Backends · Real-Time Applications · Full-Stack AI Products
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arka2024&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arka2024/arka2024/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
-## 🎯 My Engineering Focus
+## 🎯 What I'm Currently Learning
 
 ```text
-AI Research
-    ↓
-Experimentation
-    ↓
-ML Engineering
-    ↓
-Backend / APIs
-    ↓
-Product Integration
-    ↓
-Deployment
-    ↓
-Real Users
-```
-
-I don't want AI projects to stop at notebooks.
-
-**The goal is to build systems that actually work.**
-
----
-
-## 🌍 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/arkabrata-roy-b006a6280">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a
+Software Engineering
+        ↓
+Backend Systems
+        ↓
+Distributed Systems
+        ↓
+Applied AI
+        ↓
+AI-powered Applications
